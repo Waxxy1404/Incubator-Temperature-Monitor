@@ -8,7 +8,9 @@ An embedded systems project that monitors and controls the internal temperature 
 
 The system continuously reads temperature from an NTC MF58 thermistor and compares it against a user-defined set point adjusted via a potentiometer. A proportional controller calculates the appropriate PWM output to drive a resistive heating load, maintaining the incubator at the desired temperature. A safety alarm (LED) activates and heating is immediately disabled when temperature reaches 38°C.
 
-# Main circuit
+## Main circuit
+
+<img src="./images/circuit.jpg" width="45%"/>
 
 ---
 
