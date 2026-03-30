@@ -11,8 +11,8 @@ The system continuously reads temperature from an NTC MF58 thermistor and compar
 ## Main circuit
 
 <div align="center">
-<img src="./images/circuit.jpeg" width="25%"/>
-<img src="./images/circuit1.jpeg" width="25%"/>
+<img src="./images/circuit.jpeg" width="30%"/>
+<img src="./images/circuit1.jpeg" width="30%"/>
 <div/>
 
 ---
